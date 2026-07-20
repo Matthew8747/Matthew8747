@@ -1,11 +1,7 @@
 # 💫 About Me
-Hi, I'm Matthew! 👋
+Hi, I'm Matthew!
 
 I'm a **Computer Science & Artificial Intelligence** student at the **University of Bath**, driven by a passion for translating theoretical concepts into robust, real-world applications. I thrive on diving deep into technical research and building scalable solutions, whether that involves full-stack development, cloud infrastructure, or data science. 
-
-Beyond the IDE, I'm an active explorer and team player. When I'm not writing code, you can usually find me on the football pitch, out rowing on the water, hiking new trails, or traveling to new places. 
-
-I am currently seeking software engineering and AI opportunities where I can contribute to impactful projects and continue growing as a developer. I'm always open to collaborating—let's connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewpearson274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matthew164798@gmail.com) 
