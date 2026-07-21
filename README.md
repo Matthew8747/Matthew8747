@@ -1,17 +1,41 @@
-# 💫 About Me
-Hi, I'm Matthew!
+# Matt Pearson
 
-I'm a **Computer Science & Artificial Intelligence** student at the **University of Bath**, driven by a passion for translating theoretical concepts into robust, real-world applications. I thrive on diving deep into technical research and building scalable solutions, whether that involves full-stack development, cloud infrastructure, or data science. 
+Final-year MComp Computer Science and AI at the University of Bath. First class in all three
+years so far. Open to 2027 graduate roles in software engineering, and to anything where the
+hard part is deciding what the data actually supports.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewpearson274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matthew164798@gmail.com) 
+Written up properly, with the reasoning and the trade-offs, at **[mattpearson.dev](https://mattpearson.dev)**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B)
+### Selected work
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Matthew8747&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Matthew8747&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **[Restart Lab](https://github.com/Matthew8747/Set-Piece-Sim)** — A set-piece simulator that
+  won't call a routine a winner unless it beats an equal-budget random search first. On the
+  study committed to the repo, the optimised corner reaches 6.66% mean xG against a 1.04%
+  baseline, with non-overlapping 95% intervals. [Live demo](https://set-piece-sim-frontend.vercel.app/).
+- **Barnett Art** — Production storefront and portfolio for a working painter. Stripe hosted
+  checkout, Postgres, atomic stock so an original can't sell twice, and one environment
+  variable that flips the whole site between selling and taking enquiries. Private repo, client
+  work. [Live site](https://barnett-art.vercel.app).
+- **[BUBC](https://github.com/Matthew8747/BUBC)** — The University of Bath Boat Club website,
+  built for a committee that turns over every year. Editors publish a race report in under five
+  minutes; it runs for about ten pounds a year. [Live site](https://bubc.co.uk).
+- **[Bike fit study](https://github.com/Matthew8747/Bikefit-Data-Pipeline)** — My dissertation,
+  graded 82%. Fifty-one participants across three sessions each. I designed the protocol, ran
+  every session, and built the pipeline that reconciles six instrument streams onto one timeline.
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Background
+
+Placement year at Kontron on their device management product, across development and QA:
+Angular and TypeScript features, fifty-plus documented defects, and a Jenkins test runner that
+finally got dev-ops and the dev team running the same suite. Before that, embedded systems at
+Secure Thingz.
+
+Python, TypeScript, Java and C. React, Next.js, Angular and Astro on the front. PyTorch and
+scikit-learn for the modelling. Postgres, Docker, Jenkins and AWS around the edges.
+
+Rowing takes the rest of the week: British Rowing Performance Development Academy, medals at
+the Senior British Championships and at BUCS.
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/matthewpearson274) · [mattpearson.dev](https://mattpearson.dev)
